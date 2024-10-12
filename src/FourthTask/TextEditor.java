@@ -1,2 +1,5 @@
-package FourthTask;public interface TextEditor {
+package FourthTask;
+
+public interface TextEditor {
+    String write();
 }

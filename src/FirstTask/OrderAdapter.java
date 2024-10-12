@@ -1,3 +1,4 @@
+package FirstTask;
 public class OrderAdapter implements NewOrderProcessor {
     private LegacyOrderProcessor legacyOrderProcessor;
 

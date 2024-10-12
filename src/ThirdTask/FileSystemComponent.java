@@ -1,2 +1,5 @@
-package ThirdTask;public interface FileSystemComponent {
+package ThirdTask;
+
+public interface FileSystemComponent {
+    void showDetails();
 }

@@ -1,2 +1,5 @@
-package SecondTask;public interface Renderer {
+package SecondTask;
+
+public interface Renderer {
+    void renderShape(String shape);
 }

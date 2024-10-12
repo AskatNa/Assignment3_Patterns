@@ -1,2 +1,5 @@
-package SeventhTask;public interface BankAccount {
+package SeventhTask;
+
+public interface BankAccount {
+    void accessAccount();
 }

@@ -1,3 +1,4 @@
+package FirstTask;
 // Client code
 public class MainAdapterTask {
     public static void main(String[] args){

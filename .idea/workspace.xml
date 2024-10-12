@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea96f4a-e9de-4a03-99b5-4d5d62f42801" name="Changes" comment="" />
+    <list default="true" id="6ea96f4a-e9de-4a03-99b5-4d5d62f42801" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthTask/AccountSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/AccountSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthTask/BankFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/BankFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthTask/LoanSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/LoanSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthTask/MainFacadeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/MainFacadeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthTask/TransactionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/TransactionSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/LegacyOrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/LegacyOrderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/MainAdapterTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/MainAdapterTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/NewOrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/NewOrderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/OrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/OrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/BoldDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/BoldDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/ItalicDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/ItalicDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/MainDecotatorTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/MainDecotatorTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/SimpleText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/SimpleText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/LinuxRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/LinuxRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/MainBridgeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/MainBridgeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/WindowsRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/WindowsRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeventhTask/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeventhTask/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeventhTask/BankAccountProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeventhTask/BankAccountProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeventhTask/MainProxyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeventhTask/MainProxyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeventhTask/RealBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeventhTask/RealBankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SixthTask/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixthTask/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SixthTask/MainFlyweightTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixthTask/MainFlyweightTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SixthTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixthTask/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SixthTask/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixthTask/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/FileSystemComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/FileSystemComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/MainCompositeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/MainCompositeTask.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nHUdMRqvMAEt03tzjFjh48Bpze" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,15 +65,87 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainAdapterTask.executor": "Run",
+    "Application.MainBridgeTask.executor": "Run",
+    "Application.MainCompositeTask.executor": "Run",
+    "Application.MainDecotatorTask.executor": "Run",
+    "Application.MainFacadeTask.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Аскат Наринбетов/IdeaProjects/Assignment3_Patterns/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MainFacadeTask">
+    <configuration name="MainBridgeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondTask.MainBridgeTask" />
+      <module name="Assignment3_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SecondTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCompositeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdTask.MainCompositeTask" />
+      <module name="Assignment3_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThirdTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDecotatorTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourthTask.MainDecotatorTask" />
+      <module name="Assignment3_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FourthTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFacadeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FifthTask.MainFacadeTask" />
+      <module name="Assignment3_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FifthTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFacadeTask" />
+        <item itemvalue="Application.MainDecotatorTask" />
+        <item itemvalue="Application.MainCompositeTask" />
+        <item itemvalue="Application.MainBridgeTask" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,22 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728629583686</updated>
-      <workItem from="1728629584905" duration="2000" />
+      <workItem from="1728629584905" duration="1569000" />
+      <workItem from="1728738536250" duration="4944000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
